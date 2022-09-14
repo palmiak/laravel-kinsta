@@ -1,4 +1,5 @@
 {
+    "name": "Kinsta laravel",
     "private": true,
     "scripts": {
         "dev": "vite",
